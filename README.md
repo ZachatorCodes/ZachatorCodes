@@ -26,7 +26,7 @@
 <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" alt="daisyui" width="40" height="40"/> </a>
+<a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://img.daisyui.com/images/daisyui/mark-rotating.svg" alt="daisyui" width="40" height="40"/> </a>
 <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/reactrouter/reactrouter-original.svg" alt="react-router" width="40" height="40"/> </a>
 <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> </a>
 </p>
