@@ -4,7 +4,7 @@
 <br/>
 
 - 🔭 I am currently working on the website for the Northern Colorado Grotto
-- 🌱 I am actively learning more about computer architechture & assembly language, data structures / algorithms, and advanced mathematics
+- 🌱 I am actively learning more about data structures / algorithms and advanced mathematics
 - 🎓 I am currently in school working towards a double Bachelors in Computer Science and Mathematics
 - 💬 Ask me about my time as a fullstack developement bootcamp student
 - 📄 Know about my experiences as a private and group STEM / programing instructor
