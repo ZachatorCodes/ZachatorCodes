@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hey all, Zach here.</h3>
-<h4 align="center">🌲 I am a student, developer, STEM education, and outdoor enthusiast based in the Rocky Mountains.</h4>
+<h4 align="center">🌲 I am a student, developer, STEM educator, and outdoor enthusiast based in the Rocky Mountains.</h4>
 <hr/>
 <br/>
 
