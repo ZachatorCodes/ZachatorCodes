@@ -8,6 +8,7 @@
 - 🎓 I am currently in school working towards a double Bachelors in Computer Science and Mathematics
 - 💬 Ask me about my time as a fullstack developement bootcamp student
 - 📄 Know about my experiences as a private and group STEM / programing instructor
+- 🌐 Visit my [portfolio / resume website](https://zachatorcodes.github.io/personal-website/).
 
 <h3 align="left">Languages:</h3>
 <p align="left">
